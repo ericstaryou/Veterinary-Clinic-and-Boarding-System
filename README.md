@@ -19,3 +19,5 @@
  - Owner
    - ID: "OWN001"
     - PW: "123"
+
+****All data are stored in binary file instead of database****
