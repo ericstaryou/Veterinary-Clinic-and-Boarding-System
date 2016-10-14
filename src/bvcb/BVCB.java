@@ -23,7 +23,7 @@ public class BVCB {
                 }
             }
         } catch (Exception e) {
-            JOptionPane.showMessageDialog(null, e.getMessage());
+            JOptionPane.showMessageDialog(null, e.getMessage());//kkk
         }
     }
 }
