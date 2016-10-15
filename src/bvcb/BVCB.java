@@ -19,7 +19,7 @@ public class BVCB {
                     Login lp = new Login();
                     lp.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                     lp.setSize(395, 220);
-                    lp.setVisible(true);
+                    lp.setVisible(true); //HELLO it's me
                 }
             }
         } catch (Exception e) {
